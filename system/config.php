@@ -10,4 +10,4 @@ define('size_verification', true);
 define('max_size', '8000000000');
 define('min_size', '0'); 
 define('file_destination', 'files');
-define('file_url_destination', 'https://anon-tip0off.herokuapp.com'); 
+define('file_url_destination', 'https://anontipoff.herokuapp.com'); 
